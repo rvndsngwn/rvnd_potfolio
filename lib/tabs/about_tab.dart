@@ -31,7 +31,7 @@ class AboutTab extends StatelessWidget {
                 height: 20,
               ),
               Text(
-                'Android. Flutter. iOS. Music.\nLikes Traveling and eGaming.',
+                'Android. Flutter. iOS. Web.\nLikes Music and eGaming.',
                 style: Theme.of(context).textTheme.caption,
                 textScaleFactor: 2,
                 textAlign: TextAlign.center,

@@ -10,6 +10,8 @@ dependencies:
     sdk: flutter
   http:
   url_launcher:
+  auto_size_text:
+  responsive_grid:
 
 flutter:
   uses-material-design: true

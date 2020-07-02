@@ -4,80 +4,79 @@ import 'assets.dart';
 
 final List<Project> projects = [
   Project(
-      name: 'Truelancer',
-      image: Assets.truelancer,
+      name: 'LoanKarao',
+      image: Assets.loankarao,
       description:
-      'Truelancer Mobile App is a Freelancing Platform. You can Search Jobs & Hire Freelancers for work.',
+      'An application for a delhi based company to avail loans, insurance and related facilities.',
       link:
-      'https://play.google.com/store/apps/details?id=com.truelancer.app'),
+      'https://play.google.com/store/apps/details?id=com.loankarao.loankarao'),
   Project(
-      name: 'Messio',
-      image: Assets.messio,
+      name: 'GuruKripa',
+      image: Assets.gurukirpa,
       description:
-      'An Open-Source Messaging App built using Flutter and Firebase. Part of the series \'60 Days of Flutter',
-      link: 'https://github.com/adityadroid/messio'),
+      'Advertising Banner management application allows you to track your field staff, import and export data directly field ⇆ office. Application for the ad agency',
+      link: ' https://play.google.com/store/apps/details?id=com.mohesu.gurukripa'),
   Project(
-      name: 'Savaari',
-      image: Assets.savaari_consumer,
+      name: 'BT Door Lock',
+      image: Assets.bt_door,
       description:
-      'Savaari is the leading player in Outstation Cabs, Hourly Rental Cabs, Airport Pickups and Airport Drop Taxis. ',
-      link: 'https://play.google.com/store/apps/details?id=com.savaari.app'),
+      'Bluetooth Door App help the lock and unlock, open and close door from your smart devices. Also working with Google Assistant and Amazon Alexa. Flutter based app.',
+      ),
   Project(
-      name: 'Savaari Partner',
-      image: Assets.savaari_partner,
+      name: 'Universal Tracker',
+      image: Assets.trecker,
       description:
-      'This App allows cab drivers to conveniently share billing and other trip details scheduled to them.',
-      link:
-      'https://play.google.com/store/apps/details?id=com.savaari.driver.app'),
+      'This App allows track GPS location and with whom you want to share location. It\'s only for Government uses.',
+      ),
   Project(
-      name: 'Mynewcar',
-      image: Assets.mynewcar,
+      name: 'vLive',
+      image: Assets.vlive,
       description:
-      'Through this App, along with doorstep delivery of a new car, one can also select the accessories to buy.',
-      link: 'https://play.google.com/store/apps/details?id=com.mynewcar.app'),
+      'Through this App, possible a smooth video call conference and chat. On pandemic situation It helps you keep your classes, meetings and group fun going well without any limits.',
+     ),
   Project(
-      name: 'Trivz',
-      image: Assets.trivz,
+      name: 'Flights',
+      image: Assets.flights,
       description:
-      'With the Trivz app, car owners can give test drives to car buyers.',
-      link:
-      'https://play.google.com/store/apps/details?id=in.mynewcar.testdrives'),
+      'With the Flights app, book a flight ticket at cheap prices',
+     ),
   Project(
-      name: 'Mydealer',
+      name: 'nursinghome.com',
       image: Assets.mydealer,
       description:
-      'Mydealer App helps a car dealership to manage sales process and improve the productivity`.',
-      link: 'https://play.google.com/store/apps/details?id=in.mnc.mydealer'),
+      'Appointment System Online which provides Appointment Software that manages the OPD department of Hospital/Clinic.',
+      ),
   Project(
-      name: 'FaceLyt',
-      image: Assets.facelyt,
+      name: 'civilpro.in',
+      image: Assets.survey,
       description:
-      'FaceLyt is an alternative and free client to manage your Facebook account.',
+      'A website that handles the civil work of land survey, topography, demarcation, levelling etc.',
       link:
-      'https://apkpure.com/facelyt-for-facebook-lite/com.adityaadi1467.facelytx'),
+      ' https://www.civilpro.in/'),
   Project(
-      name: 'Cocoapay',
-      image: Assets.cocoapay,
+      name: 'mohesu.com',
+      image: Assets.mohesu,
       description:
-      'Cocoapay helps merchants start accepting payments through POS devices and bill through the app.',
-      link: 'http://www.cocoapay.com/'),
+      'A WordPress website provide Top-Notch Server Management, Web & Mobile App Development, Smart Home Security',
+      link: 'http://www.mohesu.com/'),
   Project(
-      name: 'VDrone',
-      image: Assets.vdrone,
-      description: 'A New company which does everything you dont want',
-      link: 'http://www.vdrone.xyz/'),
+      name: 'mohesu enterprises',
+      image: Assets.mohesu,
+      description: 'A Flutter Web App provide Top-Notch Server Management, Web & Mobile App Development, Smart Home Security',
+      link: 'https://rvndsngwn.github.io/web_master/#/'),
   Project(
-      name: 'Wheelie Repairs',
-      image: Assets.wheelie_repairs,
+      name: 'rvndsngwn.github.io',
+      image: Assets.avatar,
       description:
-      'Wheelie Repairs providers door to door garage services & breakdown assistance for vehicles.',
+      'My portfolio website based on HTML & CSS',
       link:
-      'https://play.google.com/store/apps/details?id=com.wheelierepairs'),
+      'https://rvndsngwn.github.io/'),
   Project(
-      name: 'Kharedi Now',
-      image: Assets.kharedi_now,
-      description: 'A Grocery app for the city of Latur.'),
-  Project(
+      name: 'portfolio',
+      image: Assets.mohesuEnter,
+      description: 'A flutter based portfolio web app for mohesu enterprises company.',
+  link: 'https://rvndsngwn.github.io/mohesu/#/'),
+  /*Project(
       name: 'Rajasthan Tourism',
       image: Assets.rajasthan_tourism,
       description:
@@ -86,5 +85,5 @@ final List<Project> projects = [
       name: 'Railenq',
       image: Assets.railenq,
       description:
-      'RailENQ is an app for trains and Railway Enquiries.'),
+      'RailENQ is an app for trains and Railway Enquiries.'),*/
 ];
