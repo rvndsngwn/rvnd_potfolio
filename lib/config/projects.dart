@@ -60,7 +60,7 @@ final List<Project> projects = [
       'A WordPress website provide Top-Notch Server Management, Web & Mobile App Development, Smart Home Security',
       link: 'http://www.mohesu.com/'),
   Project(
-      name: 'mohesu enterprises',
+      name: 'Mohesu Enterprises',
       image: Assets.mohesu,
       description: 'A Flutter Web App provide Top-Notch Server Management, Web & Mobile App Development, Smart Home Security',
       link: 'https://rvndsngwn.github.io/web_master/#/'),
@@ -72,16 +72,17 @@ final List<Project> projects = [
       link:
       'https://rvndsngwn.github.io/'),
   Project(
-      name: 'portfolio',
+      name: 'Portfolio',
       image: Assets.mohesuEnter,
       description: 'A flutter based portfolio web app for mohesu enterprises company.',
   link: 'https://rvndsngwn.github.io/mohesu/#/'),
-  /*Project(
-      name: 'Rajasthan Tourism',
-      image: Assets.rajasthan_tourism,
-      description:
-      'A app built using Cordova which had info about Rajasthan and its tourism destinations'),
   Project(
+      name: 'Rvnd Portfolio',
+      image: Assets.avatar,
+      description:
+      'My flutter based portfolio web and app.',
+  link: 'https://rvndsngwn.github.io/rvnd_potfolio/#/'),
+  /*Project(
       name: 'Railenq',
       image: Assets.railenq,
       description:
