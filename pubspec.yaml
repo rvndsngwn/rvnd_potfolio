@@ -11,7 +11,10 @@ dependencies:
   http:
   url_launcher:
   auto_size_text:
-  responsive_grid:
+  provider:
+  shared_preferences:
+  animated_theme_switcher:
+
 
 flutter:
   uses-material-design: true

@@ -80,7 +80,7 @@ final List<Project> projects = [
       name: 'Rvnd Portfolio',
       image: Assets.avatar,
       description:
-      'My flutter based portfolio web and app.',
+      'My flutter based portfolio web site.',
   link: 'https://rvndsngwn.github.io/rvnd_potfolio/#/'),
   /*Project(
       name: 'Railenq',

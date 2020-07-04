@@ -11,12 +11,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return ThemeSwitcherWidget(
       initialDarkModeOn: false,
-      child: Adityadroid(),
+      child: RvndSngwn(),
     );
   }
 }
-class Adityadroid extends StatelessWidget {
-  const Adityadroid({
+class RvndSngwn extends StatelessWidget {
+  const RvndSngwn({
     Key key,
   }) : super(key: key);
 
