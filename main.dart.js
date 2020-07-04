@@ -43766,7 +43766,7 @@ T.Gy.prototype={
 la:function(){var t=0,s=P.al(u.bs),r,q
 var $async$la=P.af(function(a,b){if(a===1)return P.ai(b,s)
 while(true)switch(t){case 0:t=3
-return P.at(G.aaH("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@rvndsngwn"),$async$la)
+return P.at(G.aaH("https://adityadroid-medium.herokuapp.com/@rvndsngwn"),$async$la)
 case 3:q=b
 if(q.b===200){r=J.kJ(J.W(C.b7.dv(0,C.ai.dv(0,q.x)),"response"),new T.Gz(),u.mQ).dd(0)
 t=1
